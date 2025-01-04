@@ -4,6 +4,8 @@
 
 A Model Context Protocol (MCP) server implementation that integrates with FireCrawl for advanced web scraping capabilities.
 
+<a href="https://glama.ai/mcp/servers/57mideuljt"><img width="380" height="200" src="https://glama.ai/mcp/servers/57mideuljt/badge" alt="mcp-server-firecrawl MCP server" /></a>
+
 ## Features
 
 - Web scraping with JavaScript rendering
